@@ -3,4 +3,4 @@ A static web app displaying mock weather data for cities (Delhi, Mumbai, Bangalo
 ## How to Run
 Open `index.html` in a browser.
 ## Demo
-[Live Demo](https://yourusername.github.io/weather-dashboard)
+[Live Demo](https://Nithishvincent.github.io/WeatherDashboard)
